@@ -191,7 +191,7 @@ const Dashboard = ({ currentUser }) => {
                       overflow: 'hidden',
                       textOverflow: 'ellipsis'
                     }}>
-                      #{ticket.id} • {formatDate(ticket.createdAt)} • {ticket.userId}
+                      #{ticket.id} • {formatDate(ticket.createdAt)} • {ticket.userId} to {ticket.userTo}
                     </p>
                   </div>
 
