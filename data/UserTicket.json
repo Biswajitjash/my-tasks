@@ -1,0 +1,33 @@
+[
+  {
+    "id": 1,
+    "userId": 2,
+    "title": "ddd",
+    "description": "ffffdfdfd",
+    "category": "General",
+    "priority": "Medium",
+    "userTo": 1,
+    "status": "Resolved",
+    "feedback": 4,
+    "image": null,
+    "createdAt": "2026-02-18T13:53:51.511Z",
+    "updatedAt": "2026-02-19T05:37:00.512Z",
+    "images": [
+      "/uploads/1771423026914-87987453-1234.jpg"
+    ]
+  },
+  {
+    "id": 2,
+    "userId": 1,
+    "title": "get",
+    "description": "gfdg",
+    "category": "General",
+    "priority": "Medium",
+    "userTo": 2,
+    "status": "Open",
+    "feedback": 2,
+    "image": null,
+    "createdAt": "2026-02-19T08:05:36.963Z",
+    "updatedAt": "2026-02-19T08:05:36.963Z"
+  }
+]

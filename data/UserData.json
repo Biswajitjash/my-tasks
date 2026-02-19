@@ -1,0 +1,18 @@
+[
+  {
+    "id": 1,
+    "username": "Biswajit",
+    "email": "biswajitjash@gmail.com",
+    "password": "$2a$10$5tsrHzNLLLrQJYmM6ELFNOEDb2m3A.vki.2Mv2GgaPhxPlTlYp6EC",
+    "fullName": "Biswajit Jash",
+    "createdAt": "2026-02-18T11:52:35.009Z"
+  },
+  {
+    "id": 2,
+    "username": "User 22",
+    "email": "2biswajitjash@gmail.com",
+    "password": "$2a$10$Y4rD.OZYfbBJVhf6UIogLObquftjWnF4I6jG6CeYu4pqGn.otarz.",
+    "fullName": "Ticket User 2",
+    "createdAt": "2026-02-18T13:51:18.684Z"
+  }
+]
